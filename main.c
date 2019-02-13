@@ -6,7 +6,13 @@
  */
 
 
+#include <stdio.h>
 
+////Instantiate methods
+void billCalculate();
+void oceanLevels();
+void stockProgram();
+void pattern();
 
 //runs all four of the programming challenges
 void main(){
